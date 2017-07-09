@@ -1,0 +1,5 @@
+C:\Users\Ellerick\documents\visual studio 2017\Projects\Test\Platform.Parts\bin\Debug\Platform.Parts.dll
+C:\Users\Ellerick\documents\visual studio 2017\Projects\Test\Platform.Parts\bin\Debug\Platform.Parts.pdb
+C:\Users\Ellerick\documents\visual studio 2017\Projects\Test\Platform.Parts\obj\Debug\Platform.Parts.csprojResolveAssemblyReference.cache
+C:\Users\Ellerick\documents\visual studio 2017\Projects\Test\Platform.Parts\obj\Debug\Platform.Parts.dll
+C:\Users\Ellerick\documents\visual studio 2017\Projects\Test\Platform.Parts\obj\Debug\Platform.Parts.pdb
