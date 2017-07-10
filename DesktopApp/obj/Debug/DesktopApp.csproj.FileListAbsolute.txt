@@ -1,0 +1,9 @@
+C:\Users\Ellerick\Documents\Test\DesktopApp\bin\Debug\DesktopApp.exe.config
+C:\Users\Ellerick\Documents\Test\DesktopApp\bin\Debug\DesktopApp.exe
+C:\Users\Ellerick\Documents\Test\DesktopApp\bin\Debug\DesktopApp.pdb
+C:\Users\Ellerick\Documents\Test\DesktopApp\obj\Debug\DesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Ellerick\Documents\Test\DesktopApp\obj\Debug\DesktopApp.Login.resources
+C:\Users\Ellerick\Documents\Test\DesktopApp\obj\Debug\DesktopApp.Properties.Resources.resources
+C:\Users\Ellerick\Documents\Test\DesktopApp\obj\Debug\DesktopApp.csproj.GenerateResource.Cache
+C:\Users\Ellerick\Documents\Test\DesktopApp\obj\Debug\DesktopApp.exe
+C:\Users\Ellerick\Documents\Test\DesktopApp\obj\Debug\DesktopApp.pdb
